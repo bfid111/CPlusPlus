@@ -6,7 +6,6 @@
 using namespace std;
 int isCorrectletter(char guess, string &guessword);
 vector <string> lists;
-
 int main()
 {
 	string input_line[10000];
